@@ -1,0 +1,1 @@
+# Modelos de datos para pydantic (ej: Request/Response)
