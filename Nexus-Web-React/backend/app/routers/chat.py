@@ -1,1 +1,0 @@
-# Archivo para los endpoints del chat
