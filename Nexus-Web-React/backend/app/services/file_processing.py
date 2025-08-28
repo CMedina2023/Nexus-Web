@@ -1,0 +1,1 @@
+# Lógica para leer .docx/.pdf, etc.
